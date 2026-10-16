@@ -1,0 +1,46 @@
+[
+  {
+    "candidate":"New best checkpoint",
+    "path":"runs_v3\/ppo\/best_model.zip",
+    "timesteps":255960,
+    "avg_reward":221.47,
+    "std_reward":37.2,
+    "avg_episode_length":474.2,
+    "episodes_reward_ge_200_pct":88.0,
+    "precise_landing_pct":78.0,
+    "precise_landings":39
+  },
+  {
+    "candidate":"Latest trained checkpoint",
+    "path":"runs_v3\/ppo\/checkpoint_model_300760_steps.zip",
+    "timesteps":300760,
+    "avg_reward":159.65,
+    "std_reward":106.61,
+    "avg_episode_length":488.7,
+    "episodes_reward_ge_200_pct":44.0,
+    "precise_landing_pct":28.0,
+    "precise_landings":14
+  },
+  {
+    "candidate":"Legacy PPO best",
+    "path":"runs\/ppo\/best_model.zip",
+    "timesteps":20000,
+    "avg_reward":-148.06,
+    "std_reward":41.86,
+    "avg_episode_length":257.1,
+    "episodes_reward_ge_200_pct":0.0,
+    "precise_landing_pct":0.0,
+    "precise_landings":0
+  },
+  {
+    "candidate":"Previous PPO best",
+    "path":"runs_v2\/ppo\/best_model.zip",
+    "timesteps":95960,
+    "avg_reward":-233.59,
+    "std_reward":72.99,
+    "avg_episode_length":637.6,
+    "episodes_reward_ge_200_pct":0.0,
+    "precise_landing_pct":0.0,
+    "precise_landings":0
+  }
+]

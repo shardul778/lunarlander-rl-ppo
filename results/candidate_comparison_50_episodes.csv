@@ -1,0 +1,5 @@
+candidate,path,timesteps,avg_reward,std_reward,avg_episode_length,episodes_reward_ge_200_pct,precise_landing_pct,precise_landings
+New best checkpoint,runs_v3/ppo/best_model.zip,255960,221.47,37.2,474.2,88.0,78.0,39
+Latest trained checkpoint,runs_v3/ppo/checkpoint_model_300760_steps.zip,300760,159.65,106.61,488.7,44.0,28.0,14
+Legacy PPO best,runs/ppo/best_model.zip,20000,-148.06,41.86,257.1,0.0,0.0,0
+Previous PPO best,runs_v2/ppo/best_model.zip,95960,-233.59,72.99,637.6,0.0,0.0,0

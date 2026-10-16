@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Local runtime / data
+sample_data/
+drive/
+.cache/
+
+# Intermediate training runs and checkpoints
+runs/
+runs_v2/
+runs_v3/
+runs_v4/
+checkpoint_model_*_steps.zip
+
+# Keep only the selected model in the public repository if desired
+# models/*.zip
+
+# Generated videos and temporary outputs (uncomment if files should stay local)
+# videos/*.mp4
