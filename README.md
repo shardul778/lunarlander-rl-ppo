@@ -104,3 +104,8 @@ The notebook, checkpoint, plots, result files, and video should be copied from t
 
 - [Gymnasium LunarLander documentation](https://gymnasium.farama.org/environments/box2d/lunar_lander/)
 - [Stable-Baselines3 documentation](https://stable-baselines3.readthedocs.io/)
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
